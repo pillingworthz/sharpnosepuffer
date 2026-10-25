@@ -1,5 +1,6 @@
 ---
 title: "The band"
+date: "2026-01-01"
 ---
 
 ### Luke

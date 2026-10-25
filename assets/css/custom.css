@@ -19,6 +19,14 @@ h1.landing-rise {
 
 /* Overriding this can be used to chnage the filter applied to the heading image */
 .hero-canvas-fade {
-  -webkit-mask-image: linear-gradient(to bottom,black 67%,transparent 100%);
-  mask-image: linear-gradient(to bottom,black 67%,transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black 67%, transparent 100%);
+  mask-image: linear-gradient(to bottom, black 67%, transparent 100%);
+}
+
+/* Hide dates inside post navigation links and list cards */
+.article-card time,
+article time,
+.recent-posts time,
+span.text-xs.text-neutral-500 {
+  display: none !important;
 }

@@ -1,6 +1,7 @@
 ---
 title: "Get in Touch"
 description: "Reach out to Wild Fenn for bookings, press, or inquiries."
+date: "2026-01-01"
 ---
 
 Got a question, booking request, or just want to connect? Reach out to us directly through any of our official channels below:
