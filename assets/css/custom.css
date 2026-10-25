@@ -14,5 +14,11 @@ h1.landing-rise {
   font-size: 6em;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: #e3e3e3;
+  /* color: #e3e3e3; */
+}
+
+/* Overriding this can be used to chnage the filter applied to the heading image */
+.hero-canvas-fade {
+  -webkit-mask-image: linear-gradient(to bottom,black 67%,transparent 100%);
+  mask-image: linear-gradient(to bottom,black 67%,transparent 100%);
 }
