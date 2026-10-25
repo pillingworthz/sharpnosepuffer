@@ -1,0 +1,10 @@
+---
+title: "Fearless Parade - Looking back"
+date: 2026-08-01
+---
+
+## Fearless Parade : Looking back
+
+Check out the live session on YouTube. We filmed this in Plymbridge Woods. Thank you to Louis Goldman for the videography.
+
+{{< youtube 1iQiUpureZo >}}

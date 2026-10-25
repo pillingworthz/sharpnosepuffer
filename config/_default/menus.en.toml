@@ -11,29 +11,29 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Latest"
- pageRef = "posts"
+ name = "About"
+ pageRef = "about"
  weight = 10
 
 [[main]]
- name = "About"
- pageRef = "about"
+ name = "The Band"
+ pageRef = "the-band"
  weight = 20
 
 [[main]]
- name = "The Band"
- pageRef = "band"
- weight = 20
+ name = "Blog"
+ pageRef = "posts"
+ weight = 30
 
 [[main]]
  name = "Upcoming gigs"
- pageRef = "gigs"
- weight = 30
+ pageRef = "upcoming-gigs"
+ weight = 40
 
 [[main]]
  name = "Contact"
  pageRef = "contact"
- weight = 40
+ weight = 50
 
 # [[main]]
 #  name = "example sub-menu 1"
