@@ -1,0 +1,4 @@
+body:has(#landing-hero-background) > header {
+  position: relative;
+  z-index: 10;
+}
