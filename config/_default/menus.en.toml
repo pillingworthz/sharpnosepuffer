@@ -11,46 +11,62 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Blog"
+ name = "Latest"
  pageRef = "posts"
  weight = 10
 
 [[main]]
- name = "Parent"
+ name = "About"
+ pageRef = "about"
  weight = 20
 
 [[main]]
- name = "example sub-menu 1"
- parent = "Parent"
- pageRef = "posts"
+ name = "The Band"
+ pageRef = "band"
  weight = 20
 
 [[main]]
- name = "example sub-menu 2"
- parent = "Parent"
- pageRef = "posts"
- weight = 20
-
-[[subnavigation]]
- name = "An interesting topic"
- pageRef = "tags/interesting-topic"
- weight = 10
-
-[[subnavigation]]
- name = "My Awesome Category"
- pre = "github"
- pageRef = "categories/awesome"
- weight = 20
-
-[[main]]
- name = "Categories"
- pageRef = "categories"
- weight = 20
-
-[[main]]
- name = "Tags"
- pageRef = "tags"
+ name = "Upcoming gigs"
+ pageRef = "gigs"
  weight = 30
+
+[[main]]
+ name = "Contact"
+ pageRef = "contact"
+ weight = 40
+
+# [[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+# [[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+# [[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+# [[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+# [[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+# [[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
 
 
 # -- Footer Menu --

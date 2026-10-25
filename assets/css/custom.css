@@ -1,4 +1,18 @@
-body:has(#landing-hero-background) > header {
+/* For some reason the default styling hid the menu behind the backgound image - so this sorts that out */
+body:has(#landing-hero-background)>header {
   position: relative;
   z-index: 10;
+}
+
+/* Import Cormorant from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@500&display=swap');
+
+/* Target ONLY the main title on the homepage splash area */
+h1.landing-rise {
+  font-family: 'Cormorant', serif !important;
+  font-weight: 500;
+  font-size: 6em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #e3e3e3;
 }
