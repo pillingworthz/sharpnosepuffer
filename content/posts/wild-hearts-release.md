@@ -1,6 +1,7 @@
 ---
 title: "Wild Hearts"
 date: 2025-04-01
+layout: "simple"
 ---
 
 Wild Hearts

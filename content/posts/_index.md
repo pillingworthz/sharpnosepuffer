@@ -1,7 +1,7 @@
 ---
 title: "Latest News & Updates"
 description: "Band news, track releases, tour updates, and behind-the-scenes notes."
-layout: "card" # Options: "simple", "card", "background"
+layout: "card"
 showDate: true
 showSummary: true
 cardView: true

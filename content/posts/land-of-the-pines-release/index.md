@@ -1,6 +1,7 @@
 ---
 title: "Land of the Pines"
 date: 2026-09-01
+layout: "simple"
 featured: true
 featureImage: "land-of-the-pines.png"
 ---

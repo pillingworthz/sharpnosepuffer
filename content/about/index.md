@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: "2026-01-01"
+layout: "simple"
 ---
 
 Wild Fenn are an Indie/Folk band based in Devon, UK. Songwriters Luke Engel and Jess Illingworth love writing songs with beautiful harmonies. Their lyrics often take inspiration from nature and lead the listener to wild places. Wild Fenn are influenced by the likes of Gregory Alan Isokov, Roo Panes, Frank Turner and The Lone Bellow and create music that is both upbeat and grounding.

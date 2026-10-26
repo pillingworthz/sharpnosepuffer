@@ -1,6 +1,7 @@
 ---
 title: "The Hibernation Song"
 date: 2026-02-01
+layout: "simple"
 ---
 
 ## Latest Release: The Hibernation Song

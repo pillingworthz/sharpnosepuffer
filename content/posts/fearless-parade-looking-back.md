@@ -1,6 +1,7 @@
 ---
 title: "Fearless Parade - Looking back"
 date: 2026-08-01
+layout: "simple"
 ---
 
 ## Fearless Parade : Looking back
